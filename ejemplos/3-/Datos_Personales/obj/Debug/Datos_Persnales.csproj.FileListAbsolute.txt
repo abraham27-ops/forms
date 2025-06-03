@@ -1,0 +1,10 @@
+E:\Datos_Persnales\bin\Debug\Datos_Persnales.exe.config
+E:\Datos_Persnales\bin\Debug\Datos_Persnales.exe
+E:\Datos_Persnales\bin\Debug\Datos_Persnales.pdb
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.csproj.AssemblyReference.cache
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.Form1.resources
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.Properties.Resources.resources
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.csproj.GenerateResource.cache
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.csproj.CoreCompileInputs.cache
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.exe
+E:\Datos_Persnales\obj\Debug\Datos_Persnales.pdb
