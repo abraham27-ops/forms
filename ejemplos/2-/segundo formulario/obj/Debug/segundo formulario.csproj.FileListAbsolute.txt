@@ -1,0 +1,10 @@
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\bin\Debug\segundo formulario.exe.config
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\bin\Debug\segundo formulario.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\bin\Debug\segundo formulario.pdb
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo formulario.csproj.AssemblyReference.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo_formulario.ContarCaracteres.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo_formulario.Properties.Resources.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo formulario.csproj.GenerateResource.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo formulario.csproj.CoreCompileInputs.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo formulario.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\2-\segundo formulario\obj\Debug\segundo formulario.pdb

@@ -1,0 +1,10 @@
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.csproj.AssemblyReference.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.GbDatosDeTemperatura.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\forms\ejemplos\4-\Temperatura\obj\Debug\Temperatura.pdb

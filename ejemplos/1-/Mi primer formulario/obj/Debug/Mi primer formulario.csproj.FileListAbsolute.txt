@@ -1,0 +1,10 @@
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\bin\Debug\Mi primer formulario.exe.config
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\bin\Debug\Mi primer formulario.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\bin\Debug\Mi primer formulario.pdb
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi primer formulario.csproj.AssemblyReference.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi_primer_formulario.Form1.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi_primer_formulario.Properties.Resources.resources
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi primer formulario.csproj.GenerateResource.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi primer formulario.csproj.CoreCompileInputs.cache
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi primer formulario.exe
+C:\Users\abrap\OneDrive\Documentos\profe emer\C#\Objetos\Corto en parejas\9-\Mi primer formulario\obj\Debug\Mi primer formulario.pdb
